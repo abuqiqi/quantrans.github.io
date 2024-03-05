@@ -8,9 +8,4 @@ Experimental results show that QuanTrans retains the advantages of QuanPath, ach
 
 ## Publication
 
-[[pdf]]()
-
-[[code]]()
-
-[[slide]]()
-
+[[pdf]]() [[code]]() [[slide]]()
